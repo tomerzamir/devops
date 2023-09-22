@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Creative To-Do List</title>
+    <title>To-Do List</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,15 +57,15 @@
         <ul class="task-list">
             <li class="task">
                 <input type="checkbox" id="task1">
-                <label for="task1">Create a JSP file</label>
+                <label for="task1">get milk</label>
             </li>
             <li class="task">
                 <input type="checkbox" id="task2">
-                <label for="task2">Style the To-Do List</label>
+                <label for="task2">drink milk</label>
             </li>
             <li class="task">
                 <input type="checkbox" id="task3">
-                <label for="task3">Add interactive features</label>
+                <label for="task3">go to sleep</label>
             </li>
         </ul>
         <div class="add-task">
